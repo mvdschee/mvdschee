@@ -7,8 +7,6 @@
 
 ⚐ Based in Netherlands
 
-ϟ Currently NeftyBlocks
-
 ϟ Recently [@mvdschee/use](https://github.com/mvdschee/use)
 
  ## Skills
