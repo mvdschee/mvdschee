@@ -5,4 +5,4 @@
 
 ⚐ Based in Netherlands
 
-ϟ Recently [@mvdschee/use](https://github.com/mvdschee/use)
+ϟ Recently [@mvdschee/use](https://github.com/mvdschee/use) & [@mvdschee/system-monitor](https://github.com/mvdschee/system-monitor)
